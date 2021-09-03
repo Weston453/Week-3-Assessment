@@ -1,0 +1,15 @@
+reate a new file called web.txt. Answer the following questions in at least 2 paragraphs, in your own words, based on what you have learned in this module.
+
+**How does the internet work? What happens when you click on a link? **
+
+The internet is a connection of many computers. Computers comunicate with one another to send and recieve data. Using IP addresses allow computers
+to accurate send data to the correct location. Routers are also nessisary to help connect computers together. Routers help route requests to the 
+correct location and by adding a router to the system we can reach more and more locations accross the globe, scaling up our internet. these routers 
+also connect to internet service providers through their routers that can comunicate with routers from other internet service providers. 
+This increase our connections of computers.
+
+when you click on a link your browser makes a get request to the IP address assigned to that server. Then, the App code finishes exectution.
+In return, the server processes the request and responds with the appropriate end point. The browser then recieves html, css, and json code 
+and starts to interpret the code to display the requested end point. When the browser finishes intrepreting the recieved code, it displays the
+page for the user.
+
